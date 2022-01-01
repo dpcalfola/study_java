@@ -1,0 +1,12 @@
+
+변수타입
+			 1		  2		4		8
+	정수형	byte	short	int		long
+	실수형					float	double
+	논리형	boolean
+	문자형			char
+
+
+
+
+    // 컴퓨터가 기본적으로 읽어드리는 데이터의 단위는 bit 가 아니라 byte
