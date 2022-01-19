@@ -30,7 +30,7 @@ public class numberBaseballGame_final {
         // 게임 시작
         while (!isCorrect) {
 
-            // 사용자 번호 입력
+            // 사용자 번호 입력4
             System.out.printf("Try %d: Your numbers? ", triNum++);
             for (int i = 0; i < userChoice.length; i++) {
                 userChoice[i] = scan.nextInt();
