@@ -1,4 +1,4 @@
-package opentutorial.setPractice1;
+package opentutorial.setPractice;
 
 import java.util.HashSet;
 import java.util.Iterator;
