@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- input form -->
+    <form name="myform">
+        <input type="text" id="input_form_target" name="text1">
+        <input type="submit" value="SEND" onclick="process()">
+    </form>
+
+    <!-- div attribute -->
+    <!-- attribute 뜻: 속성 -->
+    <div id="div_1">DIV declaration</div>
+    <a href="#" onclick="get_div_attribute()">print the DIV attribute</a>
+    <a href="#" onclick="set_div_attribute('changed.')">print the DIV attribute</a>
+    <br>
+
+    <!-- change attribute of element -->
+    <img id="image_1" src="./../src/image2.jpg" width="100">
+    <br>
+    <input id="button_change_image" type="button" value="change image">
+    <br>
+    <input id="button_toggle_image" type="button" onclick="toggle_image()" value="toggle image">
+    <br>
+    <script src="1.js"></script>
+</body>
+
+</html>
