@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <title>Document</title>
+</head>
+
+<body>
+    <form>
+        display
+        <input id="display" value="0" size="30">
+        <br>
+        <input class="btn btn-primary" type="button" value="  7  " onClick="add('7')">
+        <input class="btn btn-primary" type="button" value="  8  " onClick="add('8')">
+        <input class="btn btn-primary" type="button" value="  9  " onClick="add('9')">
+        <input class="btn btn-primary" type="button" value="  /  " onClick="add('/')">
+        <br>
+        <input class="btn btn-primary" type="button" value="  4  " onClick="add('4')">
+        <input class="btn btn-primary" type="button" value="  5  " onClick="add('5')">
+        <input class="btn btn-primary" type="button" value="  6  " onClick="add('6')">
+        <input class="btn btn-primary" type="button" value="  *  " onClick="add('*')">
+        <br>
+        <input class="" type="button" value="  1  " onClick="add('1')">
+        <input class="" type="button" value="  2  " onClick="add('2')">
+        <input class="" type="button" value="  3  " onClick="add('3')">
+        <input class="" type="button" value="  -  " onClick="add('-')">
+        <br>
+        <input class="" type="button" value="  0  " onClick="add('0')">
+        <input class="" type="button" value="  +  " onClick="add('+')">
+        <br>
+        <input class="" type="button" value="Clear" onClick="clear_display('+')">
+        <input class="" type="button" value="Enter" name="enter" onClick="compute()">
+
+    </form>
+
+    <script src="./calculator.js"></script>
+</body>
+
+</html>

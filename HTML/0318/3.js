@@ -1,11 +1,7 @@
 console.log(0);
 
-// document.querySelector("btn_1").addEventListener("click", console.log("clicked"))
-const btn_1 = document.getElementById("btn_1");
 
-// btn_1.addEventListener('click', function () {
-//     console.log(2)
-// });
+const btn_1 = document.getElementById("btn_1");
 
 
 btn_1.addEventListener('click', do_1);
