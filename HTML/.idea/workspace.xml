@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f23cbdc8-c804-4af5-84ab-c76ca282f41b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/0311_01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311_02.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311_03.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311_04.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311_05.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0314/memo.md" beforeDir="false" afterPath="$PROJECT_DIR$/0314/memo.md" afterDir="false" />
+    <list default="true" id="2784a52e-5abc-4123-8352-723aece82417" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/saveactions_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0318/3.js" beforeDir="false" afterPath="$PROJECT_DIR$/0318/3.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,24 +15,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/0318/3.js" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectId" id="26MV6XWbuNpdEY6JKs8f9P5BZkB" />
+  <component name="ProjectId" id="26YjF8EG5QfemrHOBluLZ0flCDW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -48,28 +40,59 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/opt/homebrew/lib/node_modules/prettier" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f23cbdc8-c804-4af5-84ab-c76ca282f41b" name="Changes" comment="" />
-      <created>1647233269468</created>
+      <changelist id="2784a52e-5abc-4123-8352-723aece82417" name="Changes" comment="" />
+      <created>1647607308226</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1647233269468</updated>
-      <workItem from="1647233269469" duration="746000" />
-      <workItem from="1647455399992" duration="1000" />
-      <workItem from="1647577529145" duration="105000" />
-      <workItem from="1647577640699" duration="2925000" />
-      <workItem from="1647580584991" duration="97000" />
-      <workItem from="1647580690490" duration="169000" />
+      <updated>1647607308226</updated>
+      <workItem from="1647607309280" duration="735000" />
+      <workItem from="1647608058093" duration="1187000" />
+      <workItem from="1647609264101" duration="1445000" />
+      <workItem from="1647610726952" duration="21000" />
+      <workItem from="1647610841419" duration="722000" />
+      <workItem from="1647611973656" duration="197000" />
+      <workItem from="1647612185328" duration="905000" />
+      <workItem from="1647613247038" duration="613000" />
+      <workItem from="1647614184450" duration="1178000" />
+      <workItem from="1647615413163" duration="669000" />
+      <workItem from="1647616105147" duration="3656000" />
+      <workItem from="1647623218930" duration="776000" />
+      <workItem from="1647678875531" duration="71000" />
+      <workItem from="1647752288118" duration="77000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
